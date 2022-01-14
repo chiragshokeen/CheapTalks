@@ -99,3 +99,7 @@
     padding: 10px;
     color: gray;
   }
+  .chat__timestamp {
+    font-size: xx-small;
+    margin-left: 10px;
+  }
